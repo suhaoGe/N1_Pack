@@ -41,7 +41,7 @@ jobs:
     - name: Download
       run: |
         cd /opt/openwrt_packit
-        wget  https://github.com/aimcrfui/openwrt/releases/download/Aarch64/openwrt-armvirt-64-default-rootfs.tar.gz
+        wget  https://github.com/aimcrfui/OP_N1/releases/download/Aarch64/openwrt-armvirt-64-default-rootfs.tar.gz
         
     - name: Check Files
       run: |
@@ -116,7 +116,7 @@ jobs:
           * Firmware information
           Default IP地址: 10.10.10.10
           Default username: root
-          Default password: 无
+          Default password: password
         artifacts: ${{ env.FIRMWARE }}/*
 
   over:
