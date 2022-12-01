@@ -1,4 +1,4 @@
-[![Build N1](https://github.com/aimcrfui/Flippy-D/actions/workflows/N1.yml/badge.svg)](https://github.com/MXJNZ6/Flippy-D/actions/workflows/N1.yml)
+[![Build N1](https://github.com/aimcrfui/N1_Pack/actions/workflows/N1.yml/badge.svg)](https://github.com/MXJNZ6/Flippy-D/actions/workflows/N1.yml)
 ```
 Fork本仓库，在Settings-Actions-General最下边选择Read and write permissions和Allow GitHub Actions to create and approve pull requests
 N1.yml介绍

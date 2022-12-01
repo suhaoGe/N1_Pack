@@ -116,7 +116,7 @@ jobs:
           * Firmware information
           Default IP地址: 10.10.10.10
           Default username: root
-          Default password: 无
+          Default password: password
         artifacts: ${{ env.FIRMWARE }}/*
 
   over:
